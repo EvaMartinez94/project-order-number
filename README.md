@@ -30,10 +30,3 @@ Enter a number: 2
 Enter a number: a
 Do you want to sort the numbers in ascending or descending order? (a/d): a
 Sorted numbers: [2, 3, 5] 
-
-
-## Notes
-
-- The number 4 is not allowed and will be excluded from the list.
-- If no valid numbers are entered, the application will display a message and terminate.
-- If an invalid sort order is entered, the application will default to sorting in ascending order.
