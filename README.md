@@ -19,7 +19,7 @@ The application also excludes the number 4 due to cultural reasons.
 4. The sorted list of numbers will be displayed.
 
 ### Example
-""" 
+````
 Welcome to the Number Sorter
 Enter numbers one by one (enter a non-numeric value to finish):
 Enter a number: 5
@@ -30,7 +30,7 @@ Enter a number: 2
 Enter a number: a
 Do you want to sort the numbers in ascending or descending order? (a/d): a
 Sorted numbers: [2, 3, 5] 
-"""
+´´´´
 
 ## Notes
 
