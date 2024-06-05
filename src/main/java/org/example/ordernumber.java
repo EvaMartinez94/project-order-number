@@ -28,7 +28,6 @@ public class ordernumber {
             }
         }
         if (numbers.isEmpty()) {
-            // Si no se ingresaron números válidos, mostramos un mensaje y terminamos el programa
             System.out.println("No valid numbers were entered.");
             scanner.close();
             return;
